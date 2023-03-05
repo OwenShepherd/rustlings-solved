@@ -2,6 +2,9 @@
 Please go to the appropriate branch or tag for the solutions to a particular version. E.g. for
 5.4.0 solutions, travel to 5.4.0-solved, and look in the `rustlings/exercises/` directory.  
 
+If you have your own solutions, or have solved newer versions of rustlings, please feel free to  
+reach out to contribute.
+
 # rustlings 🦀❤️
 
 Greetings and welcome to `rustlings`. This project contains small exercises to get you used to reading and writing Rust code. This includes reading and responding to compiler messages!
